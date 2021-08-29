@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi...
+
+I'm mathematics student who interested in data. I'm currently learning about machine learning and data analyst.
+
 
 <!--
 **YuliaRatsa/YuliaRatsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
